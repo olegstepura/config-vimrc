@@ -5,10 +5,6 @@
 " everytime an upgrade of the vim packages is performed.  It is recommended to                                                                                                                                                                                [0/13455]" make changes after sourcing archlinux.vim since it alters the value of the
 " 'compatible' option.
 
-" This line should not be removed as it ensures that various options are
-" properly set to work with the Vim-related packages.
-runtime! archlinux.vim
-
 " If you prefer the old-style vim functionalty, add 'runtime! vimrc_example.vim'
 " Or better yet, read /usr/share/vim/vim73/vimrc_example.vim or the vim manual
 " and configure vim to your own liking!
