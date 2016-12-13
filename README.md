@@ -1,5 +1,5 @@
 # config-vimrc
-My personal vimrc config user on ArchLinux.
+My personal vimrc config used on ArchLinux.
 
 Install:
 ```bash
