@@ -1,4 +1,4 @@
-" custom vimrc
+" custom vimrc from https://github.com/olegstepura/config-vimrc
 
 set nocompatible    " use vim defaults
 set ls=2            " allways show status line
