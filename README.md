@@ -3,5 +3,5 @@ My personal vimrc config used on ArchLinux.
 
 Install:
 ```bash
-curl https://github.com/olegstepura/config-vimrc/blob/master/vimrc.local -o /etc/vimrc.local
+curl https://raw.githubusercontent.com/olegstepura/config-vimrc/master/vimrc.local -o /etc/vimrc.local
 ```
