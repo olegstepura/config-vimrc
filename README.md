@@ -11,5 +11,5 @@ echo "source /etc/vimrc.local" >> /etc/vimrc
 ### Ubuntu:
 ```bash
 curl https://raw.githubusercontent.com/olegstepura/config-vimrc/master/vimrc.local -o /etc/vim/vimrc.local
-echo "source /etc/vimrc.local" >> /etc/vim/vimrc
+echo "source /etc/vim/vimrc.local" >> /etc/vim/vimrc
 ```
